@@ -14,4 +14,8 @@ fun main(args: Array<String>) {
     else{
         println("Not elligeable to vote")
     }
+
+
+
+
 }

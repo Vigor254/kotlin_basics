@@ -8,4 +8,9 @@ fun main(args: Array<String>) {
     println("${nambari[6]}")
     for (x in nambari)
         println(x)
+    val fruits= arrayOf("mangoes","banana","orange","pineapple","strawberry")
+    for (f in fruits)
+        println(f)
+    println("i like eating ${fruits[3]} every day")
+
 }
